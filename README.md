@@ -20,6 +20,6 @@ mvn clean install
 ## Usage
 The main functionality of the project is implemented in the `GameOfLifeSolution` class. 
 
-Additionally, unit tests are provided in the `testGameOfLifeLogic` class to ensure the correctness of the implementation. You can run these tests using Maven:
+Additionally, unit tests are provided in the `GameOfLifeTest` class to ensure the correctness of the implementation. You can run these tests using Maven:
 
 mvn test
